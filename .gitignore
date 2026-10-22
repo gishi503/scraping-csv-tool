@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 出力したCSV
+output/

@@ -1,7 +1,7 @@
 [project]
 name = "scraping-csv-tool"
 version = "0.1.0"
-description = "Add your description here"
+description = "Webサイトの一覧ページを巡回して、Excelで開けるCSVに保存するスクレイピングツール"
 readme = "README.md"
 authors = [
     { name = "gishi503", email = "m.m.n.0825k@gmail.com" }
